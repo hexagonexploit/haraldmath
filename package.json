@@ -1,0 +1,23 @@
+{
+  "name": "haraldmath",
+  "version": "0.0.4",
+  "description": "omg sexy math ma dude",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "math",
+    "number",
+    "numpy"
+  ],
+  "author": "haraldnichtsotief",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^7.3.0",
+    "typescript": "^5.2.2"
+  }
+}
+
